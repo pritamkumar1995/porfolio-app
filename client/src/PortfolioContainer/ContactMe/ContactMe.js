@@ -92,6 +92,9 @@ export default function ContactMe(props) {
           <a href="https://www.threads.net/@p_r_i_t_a_m_r_a_j">
             <i className="fa fa-twitter-square"></i>
           </a>
+          <a href="https://github.com/pritamkumar1995">
+              <i className="fa fa-github"></i>
+          </a>
         </div>
         <div className="back-form">
             <div className="img-back">
